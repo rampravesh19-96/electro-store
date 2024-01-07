@@ -6,6 +6,7 @@ import Home from "./components/Home/Home"
 import Category from "./components/Category/Category"
 import SingleProduct from "./components/SingleProduct/SingleProduct"
 import AppContext from "./utils/context";
+//update
 function App() {
     return (
         <BrowserRouter>
